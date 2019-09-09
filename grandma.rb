@@ -6,7 +6,7 @@ def speak_to_grandma(phrase)
     "HUH?! SPEAK UP, SONNY!"
   elsif phrase == "Hi!"
     "HUH?! SPEAK UP, SONNY!"
-  elsif 
+  elsif phrase ==
   end
 end
 
